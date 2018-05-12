@@ -1,0 +1,44 @@
+_repo: Kensington-Rhymes_39128
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Monsell, J. R.
+    alias: Monsell, J.R.
+    gutenberg_agent_id: '25878'
+    url: http://www.gutenberg.org/2009/agents/25878
+covers:
+- cover_type: archival
+  image_path: 39128-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacKenzie, Compton
+    aliases:
+    - Mackenzie, Compton, Sir
+    - Mackenzie, Anthony Edward Montagu Compton
+    birthdate: 1883
+    deathdate: 1972
+    gutenberg_agent_id: '5658'
+    url: http://www.gutenberg.org/2009/agents/5658
+    wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
+description: ''
+gutenberg_issued: '2012-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PR'
+tableOfContents: Our house -- Our square -- The dancing class -- My sister at a party
+  -- Kissing games -- A ballad of the round pond     -- Town and country -- Poor lavender
+  girls -- Summer holidays -- The unpleasant moon -- Suggestions about sleep -- The
+  rare burglar -- The German band -- The deceitful rat-tat -- The cage in the pillar
+  box -- The fortunate coalmen -- The pavement artist -- Sweeps -- Greengrocers --
+  Christmas not far off -- The disappointment -- Treasure trove -- A visit to my aunt
+  -- Don Quixote -- The wet day -- Last words.
+title: Kensington Rhymes
+url: http://www.gutenberg.org/ebooks/39128
